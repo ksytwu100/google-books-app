@@ -53,4 +53,4 @@ ReactDOM.createRoot(document.getElementById("root")).render(
   </ApolloProvider>
 );
 
-export default App;
+
