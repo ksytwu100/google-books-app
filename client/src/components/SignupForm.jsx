@@ -33,6 +33,7 @@ const SignupForm = () => {
       const {data} = await createUser({variables: {...userFormData}});
 
       if (error) {
+        console.error(error);
         throw new Error('something went wrong!');
       }
 
