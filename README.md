@@ -16,7 +16,7 @@ The assignment is for the students to do the following:
 This books search engine is very popular for everyone to use. It features Login/Signup, Search books, save books, deletes books, and provides the book's self-Link that contains all the information about the book. The app provides a more convenient, efficient way to search books, and receive information about the searched book.
 To invoke this app, in the terminal, type the following: 
 
-  npm run dev  
+  npm start  
 
 # Installation
 
